@@ -2,3 +2,4 @@ A mosquito images dataset that is suitable for training and evaluating a recogni
 The dataset has been taken from the following link
 https://data.mendeley.com/datasets/zw4p9kj6nt/2
 
+The dataset has been recently poblished in a paper on June 06, 2022
